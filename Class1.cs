@@ -10,7 +10,7 @@ namespace _20._05._2024
     {
         public Class1()
         {
-            Console.WriteLine("Команда разработчиков!");
+            Console.WriteLine("Команда разработчиков1");
         }
     }
 }
